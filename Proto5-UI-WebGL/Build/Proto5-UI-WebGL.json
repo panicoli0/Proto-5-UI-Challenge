@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Proto 5 - UI - Challenge",
+"dataUrl": "Proto5-UI-WebGL.data.unityweb",
+"wasmCodeUrl": "Proto5-UI-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Proto5-UI-WebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
